@@ -61,8 +61,7 @@ Advanced networking concepts and protocols implementation.
 
 ---
 
-### 🎯 **Mid-Term Exam (ETS) - Web Application**
-Complete web application showcasing network programming skills with modern UI/UX.
+### 🎯 **Mid-Term Exam (ETS)**
 
 <div align="center">
 
@@ -97,7 +96,7 @@ Complete web application showcasing network programming skills with modern UI/UX
 | **Task 1** | ✅ **Completed** | Network Fundamentals |
 | **Task 2** | ✅ **Completed** | Socket Programming |
 | **Task 3** | ✅ **Completed** | Advanced Networking |
-| **ETS** | ✅ **Completed** | Mid-Term Web Application |
+| **ETS** | ✅ **Completed** | Mid-Term |
 | **Task 4** |  |  |
 | **Task 5** |  |  |
 | **Task 6** |  |  |
