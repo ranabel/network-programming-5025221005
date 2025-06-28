@@ -78,7 +78,18 @@ Extending an HTTP server with file listing, upload, and delete features.
 
 <div align="center">
 
-[![View Task 3](https://img.shields.io/badge/📁_View_Task_4-Repository-F7DF1E?style=for-the-badge&logo=github)](https://github.com/ranabel/network-programming-5025221005/tree/main/task4)
+[![View Task 4](https://img.shields.io/badge/📁_View_Task_4-Repository-F7DF1E?style=for-the-badge&logo=github)](https://github.com/ranabel/network-programming-5025221005/tree/main/task4)
+
+</div>
+
+---
+
+### 🎯 **FP - Final Project**
+Othello – Final Project Network Programming | Game Development Client-Server. 
+
+<div align="center">
+
+[![View FP](https://img.shields.io/badge/📁_View_EAS-Repository-ABFFFF?style=for-the-badge&logo=github)](https://github.com/korekorokero/othello_multiplayer.git)
 
 </div>
 
@@ -109,7 +120,7 @@ Extending an HTTP server with file listing, upload, and delete features.
 | **Task 3** | ✅ **Completed** | Advanced Networking |
 | **ETS** | ✅ **Completed** | Mid-Term |
 | **Task 4** | ✅ **Completed**  | HTTP Server |
-| **Final Project** |  |  |
+| **Final Project** | ✅ **Completed** | Othello Game Client-Server |
 
 </div>
 
